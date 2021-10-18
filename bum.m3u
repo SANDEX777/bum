@@ -1,0 +1,19 @@
+#EXTM3U
+
+#EXTINF:-1 tvg-logo=¨https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/Uno_logo.svg/1200px-Uno_logo.svg.png¨,bolivia - uno hd 
+http://54.39.16.47:25461/live/231670843/231670843/20104.m3u8
+
+#EXTINF:-1 tvg-logo=¨https://tvonlinegratis.com/wp-content/uploads/2014/08/RTP-Bolivia-Logo-300x300.jpg¨,bolivia - canal rtp hd 
+http://54.39.16.47:25461/live/231670843/231670843/94.m3u8
+
+#EXTINF:-1 tvg-logo=¨https://upload.wikimedia.org/wikipedia/commons/2/26/Panamericana_tv_2009.png¨,peru - canal panamericana hd
+http://54.39.16.47:25461/live/579931846/579931846/6.m3u8
+
+#EXTINF:-1 tvg-logo=¨/img/logo_canal/WOW_TV.png¨,WOW TV: El Salvador en vivo
+https://cdn.elsalvadordigital.com:1936/wowtv/smil:wowtv.smil/chunklist_w1356043601_b1500000_slen.m3u8
+
+#EXTINF:-1 tvg-logo=¨/img/logo_canal/Baby_TV.png¨,Baby TV
+
+
+#EXTINF:-1 tvg-logo=¨/img/logo_canal/HBO.png¨,HBO
+https://eeddggee88.xyz/live/flowb27e3429c9a0072.m3u8
